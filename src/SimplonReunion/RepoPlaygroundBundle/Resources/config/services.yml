@@ -1,0 +1,4 @@
+services:
+#    simplon_reunion_repo_playground.example:
+#        class: SimplonReunion\RepoPlaygroundBundle\Example
+#        arguments: ["@service_id", "plain_value", %parameter%]

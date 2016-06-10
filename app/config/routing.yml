@@ -1,0 +1,7 @@
+simplon_reunion_repo_playground:
+    resource: "@SimplonReunionRepoPlaygroundBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

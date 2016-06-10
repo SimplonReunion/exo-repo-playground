@@ -1,0 +1,3 @@
+simplon_reunion_repo_playground_homepage:
+    path:     /
+    defaults: { _controller: SimplonReunionRepoPlaygroundBundle:Default:index }
