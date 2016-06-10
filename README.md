@@ -35,11 +35,20 @@ Vous devez créer les vues qui remplissent les conditions suivantes :
 * Liste des réservations qui ont le statut "En cours" pour tous les gites
 * Liste des réservation qui ont le statut "Réservé" pour tous les gites
 
+
 **Une vue par condition.**
 
 Je vous laisse libre cours au format d'affichage (tableaux, paragraphes, etc.) 
 **mais vous ne devez pas perdre du temps sur la mise en forme**
 
+# Aller plus loin
+
+Optimiser votre code pour rfficher les résultats avec le minimum de requête SQL possible.
+
+# Ressources 
+
+[Documentation Symfony](http://symfony.com/doc/current/book/doctrine.html#fetching-related-objects)
+[RÉCUPÉRER SES ENTITÉS AVEC DOCTRINE2](https://openclassrooms.com/courses/developpez-votre-site-web-avec-le-framework-symfony/recuperer-ses-entites-avec-doctrine2-1)
 
 
 
