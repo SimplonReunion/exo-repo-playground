@@ -27,7 +27,7 @@ Vous devez créer les vues qui remplissent les conditions suivantes :
 
 * Liste des gestionnaires
 * Liste des gites
-* Liste des des chambres selon le gite sélectionné
+* Liste des chambres selon le gite sélectionné
 * Liste des chambres disponibles pour tous les gites
 * Liste des chambres non disponibles pour tous les gites
 * Liste des clients
