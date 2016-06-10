@@ -35,7 +35,7 @@ Vous devez créer les vues qui remplissent les conditions suivantes :
 * Liste des réservations qui ont le statut "En cours" pour tous les gites
 * Liste des réservation qui ont le statut "Réservé" pour tous les gites
 
-** Une vue par condition **
+**Une vue par condition**
 
 Je vous laisse libre cours au format d'affichage (tableaux, paragraphes, etc.) 
 *mais vous ne devez pas perdre du temps sur la mise en forme*
